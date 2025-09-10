@@ -7,6 +7,7 @@ The goal was to understand how banks can **minimize lending risks** by analyzing
 By cleaning and transforming messy data into structured insights, I built an **end-to-end pipeline** that starts from raw banking data and ends with a **Power BI interactive dashboard** for decision-making.
 
 ---
+dashboard preview : https://drive.google.com/file/d/1dLACMEfcmGFCykeQTppkIYRNupeOQzyd/view?usp=sharing
 
 ## 🏦 Problem Statement
 Banks often face risks of loan defaults when lending to customers.  
@@ -54,7 +55,7 @@ Built a set of interactive dashboards tracking key **Banking KPIs**:
 ### KPIs Used:
 -  **Total Clients** = 3000
 -  **Total Loan** = 4.38bn  
--  **Total Deposits** = $111.49M  
+-  **Total Deposits** = $3.77bn  
 -  **Total Fees** = $3.77bn
 
 
@@ -100,7 +101,3 @@ This project highlights how **data-driven dashboards empower banks** to make bet
 ---
 
 
-
-## 🧑‍💻 Author
-**T. Parvath Reddy**  
-📌 Portfolio Project | Data Analytics & BI  
