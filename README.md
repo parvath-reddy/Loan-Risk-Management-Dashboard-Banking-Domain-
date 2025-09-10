@@ -9,22 +9,36 @@ By cleaning and transforming messy data into structured insights, I built an **e
 ---
 Loan-Risk-Management/
 │
+
 ├── README.md               # Project overview, screenshots, insights
+
 ├── data/                   # Datasets
+
 │   └── Banking.csv         # Cleaned dataset
+
 │
 ├── notebooks/              # Jupyter Notebook
+
 │   └── BankRiskManagement.ipynb
+
 │
 ├── sql/                    # SQL scripts
+
 │   └── queries.sql         # Schema + cleaning + KPI queries
+
 │
 ├── powerbi/                # Power BI files
+
 │   ├── dashboard.pbix      # Power BI file (if small enough)
+
 │   └── screenshots/        # Dashboard screenshots (png/jpg)
+
 │
+
 └── docs/                   # Reports & presentation
+
     ├── Banking_Report.docx
+    
     └── Banking_Presentation.pptx
     
 
